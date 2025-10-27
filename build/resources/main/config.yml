@@ -1,0 +1,9 @@
+# hi
+# can use with kyori MiniMessage
+
+
+prefix: "[<aqua>GroupChat<white>] <gray>"
+
+# TODO message style
+
+message-style: "{pluginprefix}{player}: {message}"

@@ -1,0 +1,10 @@
+
+console.voiceChat.enabling: "Enabling VoiceGroupChat..."
+console.voiceChat.enable: "VoiceGroupChat enabled successfully."
+
+
+console.voiceChat.API.notAvailable: "Voice Chat API not available."
+
+command.groupchat.player-error: "Only players can use this command."
+command.groupchat.usage: "Usage: /groupchat <message>"
+command.groupchat.nullGroup: "You are not in a voice group."

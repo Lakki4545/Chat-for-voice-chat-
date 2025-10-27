@@ -1,0 +1,13 @@
+name: ChatForVoiceChatGroup
+version: '1.0-SNAPSHOT'
+main: org.lakki.chatForVoiceChatGroup.VoiceGroupChatPlugin
+api-version: '1.21'
+author: "Lakki4545"
+softdepend: [PlaceholderAPI]
+depend:
+  - voicechat
+commands:
+  groupchat:
+    description: Sends a message to your Simple Voice Chat group
+    usage: /groupchat <message>
+    aliases: [gc]
